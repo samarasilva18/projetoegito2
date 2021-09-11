@@ -7,13 +7,14 @@ import Monumentos from '../Monumentos/Monumentos.jsx';
 import Realeza from '../Realeza/Realeza.jsx'
 import Cadastro from '../Cadastro/Cadastro.jsx' 
 import Arte from '../Arte/Arte.jsx';
-import { Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 function App(props) {
   return (
     <div>
     <div>
         <main>
+        <Router>
         <Switch>
           <Route exact path ="/">
             <Header />
@@ -47,7 +48,8 @@ function App(props) {
           </Route>
         
         </Switch>
-
+        </Router>
+        
         </main>
     </div>
   </div>
