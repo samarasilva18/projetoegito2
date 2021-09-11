@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/projetoegito/static/css/main.b97d6ab9.chunk.css",
+    "main.js": "/projetoegito/static/js/main.47980d7b.chunk.js",
+    "main.js.map": "/projetoegito/static/js/main.47980d7b.chunk.js.map",
+    "runtime-main.js": "/projetoegito/static/js/runtime-main.ee33f422.js",
+    "runtime-main.js.map": "/projetoegito/static/js/runtime-main.ee33f422.js.map",
+    "static/js/2.b4a792ea.chunk.js": "/projetoegito/static/js/2.b4a792ea.chunk.js",
+    "static/js/2.b4a792ea.chunk.js.map": "/projetoegito/static/js/2.b4a792ea.chunk.js.map",
+    "index.html": "/projetoegito/index.html",
+    "static/css/main.b97d6ab9.chunk.css.map": "/projetoegito/static/css/main.b97d6ab9.chunk.css.map",
+    "static/js/2.b4a792ea.chunk.js.LICENSE.txt": "/projetoegito/static/js/2.b4a792ea.chunk.js.LICENSE.txt",
+    "static/media/ceiling.5a190c84.jpg": "/projetoegito/static/media/ceiling.5a190c84.jpg",
+    "static/media/curva.53bd30f0.jpg": "/projetoegito/static/media/curva.53bd30f0.jpg",
+    "static/media/indexbanner.7513f10a.png": "/projetoegito/static/media/indexbanner.7513f10a.png",
+    "static/media/myth.164acc20.jpg": "/projetoegito/static/media/myth.164acc20.jpg",
+    "static/media/nile.0d0af451.jpg": "/projetoegito/static/media/nile.0d0af451.jpg",
+    "static/media/tutmask.f3e5455c.jpeg": "/projetoegito/static/media/tutmask.f3e5455c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee33f422.js",
+    "static/js/2.b4a792ea.chunk.js",
+    "static/css/main.b97d6ab9.chunk.css",
+    "static/js/main.47980d7b.chunk.js"
+  ]
+}
