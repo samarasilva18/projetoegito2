@@ -34,3 +34,8 @@
 .texto {
     max-width: 70rem;
 }
+
+.mitoentry {
+    border-bottom: lightgray 1px solid;
+    padding-bottom: 3rem;
+}

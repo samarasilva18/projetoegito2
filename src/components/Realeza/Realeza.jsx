@@ -51,7 +51,7 @@ export default function Realeza() {
           <div class="box6">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Narmer_Palette_verso.jpg/300px-Narmer_Palette_verso.jpg" alt="Rainha Nefertiti" class="img-thumbnail"></img>
             <div>  
-            Narmer é o mais antigo Faraó encontrado que a governou tanto o reino do Alto e o reino do Baixo Egito, unificando-os. Sua existência foi debatida por anos e anos antes que sua existência fosse confirmada.
+            Narmer é o mais antigo Faraó encontrado que a governou tanto o reino do Alto e o reino do Baixo Egito, unificando-os. Sua existência foi debatida por anos e anos antes que fosse confirmada.
             </div>
             <a href="https://pt.wikipedia.org/wiki/Tutanc%C3%A2mon">Saiba Mais +</a>
           </div>

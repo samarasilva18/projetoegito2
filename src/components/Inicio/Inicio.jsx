@@ -8,7 +8,7 @@ export default function Inicio() {
             <section id="indexbody">
             <img src={tut} alt="Busto Farao" className="imafara"/>
                 <h2>Bem-Vindo</h2>
-                Bem-vindo a Segredos Milenares! Um canto da internet dedicado a tudo sobre o Egito Antigo.
+                Bem-vindo a Segredos Milenares! Um canto da internet dedicado à tudo sobre o Egito Antigo.
             </section>
         </div>
     )
