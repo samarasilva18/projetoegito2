@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/projetoegito2/static/css/main.b97d6ab9.chunk.css",
-    "main.js": "/projetoegito2/static/js/main.0ad7f97d.chunk.js",
-    "main.js.map": "/projetoegito2/static/js/main.0ad7f97d.chunk.js.map",
+    "main.css": "/projetoegito2/static/css/main.8aa51a7d.chunk.css",
+    "main.js": "/projetoegito2/static/js/main.f79b6bbe.chunk.js",
+    "main.js.map": "/projetoegito2/static/js/main.f79b6bbe.chunk.js.map",
     "runtime-main.js": "/projetoegito2/static/js/runtime-main.93a72ecc.js",
     "runtime-main.js.map": "/projetoegito2/static/js/runtime-main.93a72ecc.js.map",
     "static/js/2.31fdd00d.chunk.js": "/projetoegito2/static/js/2.31fdd00d.chunk.js",
     "static/js/2.31fdd00d.chunk.js.map": "/projetoegito2/static/js/2.31fdd00d.chunk.js.map",
     "index.html": "/projetoegito2/index.html",
-    "static/css/main.b97d6ab9.chunk.css.map": "/projetoegito2/static/css/main.b97d6ab9.chunk.css.map",
+    "static/css/main.8aa51a7d.chunk.css.map": "/projetoegito2/static/css/main.8aa51a7d.chunk.css.map",
     "static/js/2.31fdd00d.chunk.js.LICENSE.txt": "/projetoegito2/static/js/2.31fdd00d.chunk.js.LICENSE.txt",
     "static/media/ceiling.5a190c84.jpg": "/projetoegito2/static/media/ceiling.5a190c84.jpg",
     "static/media/curva.53bd30f0.jpg": "/projetoegito2/static/media/curva.53bd30f0.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.93a72ecc.js",
     "static/js/2.31fdd00d.chunk.js",
-    "static/css/main.b97d6ab9.chunk.css",
-    "static/js/main.0ad7f97d.chunk.js"
+    "static/css/main.8aa51a7d.chunk.css",
+    "static/js/main.f79b6bbe.chunk.js"
   ]
 }
