@@ -64,17 +64,17 @@ fieldset+fieldset {
     margin-top: 6.4rem;
 }
 
-.input-block+.input-block, .input-block {
+.input-block+.input-block, .input-block, .input-blocktel {
     margin-top: 2.4rem;
     margin: .5rem;
 }
 
-.input-block label{
+.input-block label, .input-blocktel label{
     font-size: 1.4rem;
     color: chocolate;
 }
 
-.input-block input {
+.input-block input , .input-blocktel input {
     width: 100%;
     height: 2rem;
     margin-top: 0.8rem;
@@ -86,7 +86,12 @@ fieldset+fieldset {
     font: 1.6rem Archivo;
 }
 
-.input-block:focus-within::after, .textarea-block:focus-within::after {
+.input-blocktel {
+    width: 60%;
+    margin-left: 7.5rem;
+}
+
+.input-block:focus-within::after, .input-blocktel:focus-within::after {
     content:"";
 
     width: calc(100% - 3.2rem);

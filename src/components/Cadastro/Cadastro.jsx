@@ -22,7 +22,7 @@ export default function Cadastro(props) {
                         <input name="email" id="email" required/>
                     </div>
 
-                    <div class="input-block">
+                    <div class="input-blocktel">
                         <label for="whatsapp">Telefone: </label>
                         <input name="whatsapp" id="whatsapp" type="number" required/>
                     </div>
@@ -31,7 +31,7 @@ export default function Cadastro(props) {
                         <label for="address">Endereço: <small>*(Opcional):</small></label>
                         <input name="address" id="address"/>
                     </div>
-                    <div class="input-block">
+                    <div class="input-blocktel">
                         <label for="cep">CEP: <small>*(Opcional):</small></label>
                         <input name="cep" id="cep" type="number"/>
                     </div>
