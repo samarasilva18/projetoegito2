@@ -1,14 +1,14 @@
 import React from "react"
-import './Cadastro.css'
-import CadastroHeader from './CadastroHeader.jsx'
+import './Contato.css'
+import ContatoHeader from './ContatoHeader.jsx'
 
-export default function Cadastro(props) {
+export default function Contato(props) {
     return (
      <div>
-         <CadastroHeader/>
+         <ContatoHeader/>
         <div id="container">
             <div class="cadasbody">
-            <h2>Cadastre-se para receber notícias sobre descobertas do Egito Antigo!</h2>
+            <h2>Preencha o formulário para fazer contato conosco! Faremos o retorno assim que possível.</h2>
             <form>
                 <fieldset>
                     <legend>Seus dados:</legend>
@@ -37,7 +37,7 @@ export default function Cadastro(props) {
                         <label for="cep">CEP: <small>*(Opcional):</small></label>
                         <input name="cep" id="cep" type="number" className="input2"/>
                     </div>
-                    <button type="submit">Salvar Cadastro</button>
+                    <button type="submit">Enviar Dados</button>
                 </fieldset>
             </form>
             </div>

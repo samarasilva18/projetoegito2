@@ -5,7 +5,7 @@ import Inicio from '../Inicio/Inicio.jsx';
 import Mitologia from '../Mitologia/Mitologia.jsx';
 import Monumentos from '../Monumentos/Monumentos.jsx';
 import Realeza from '../Realeza/Realeza.jsx'
-import Cadastro from '../Cadastro/Cadastro.jsx' 
+import Contato from '../Contato/Contato.jsx' 
 import Arte from '../Arte/Arte.jsx';
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
@@ -41,9 +41,9 @@ function App(props) {
             <Monumentos/>
 
           </Route>
-          <Route exact path="/cadastro">
+          <Route exact path="/contato">
 
-            <Cadastro/>
+            <Contato/>
 
           </Route>
         

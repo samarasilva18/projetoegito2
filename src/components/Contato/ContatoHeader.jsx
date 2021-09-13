@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 import '../Header/Header.css'
 import nilo from './nile.jpg';
 
-export default function CadastroHeader() {
+export default function ContatoHeader() {
     return (
         <header className="image-container">
             <img src={nilo} alt="Banner do rio Nilo" className="imario"/>
@@ -16,7 +16,7 @@ export default function CadastroHeader() {
                         <li> <Link to = "/mitologia"> Mitologia </Link> </li>
                         <li> <Link to = "/realeza"> Realeza </Link> </li>
                         <li> <Link to = "/monumentos"> Monumentos </Link> </li>
-                        <li> <Link to = "/cadastro"> Cadastro </Link> </li>
+                        <li> <Link to = "/contato"> Contato </Link> </li>
                     </ul>
                 </nav>
             </div>

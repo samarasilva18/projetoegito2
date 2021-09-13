@@ -16,7 +16,7 @@ export default function Header() {
                         <li> <Link to = "/mitologia"> Mitologia </Link> </li>
                         <li> <Link to = "/realeza"> Realeza </Link> </li>
                         <li> <Link to = "/monumentos"> Monumentos </Link> </li>
-                        <li> <Link to = "/cadastro"> Cadastro </Link> </li>
+                        <li> <Link to = "/contato"> Contato </Link> </li>
                     </ul>
                 </nav>
             </div>
