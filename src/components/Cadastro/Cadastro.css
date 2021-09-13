@@ -69,8 +69,13 @@ fieldset+fieldset {
     margin: .5rem;
 }
 
-.input-block label, .input-blocktel label{
+.input-block label {
     font-size: 1.4rem;
+    color: chocolate;
+}
+
+.input-blocktel label {
+    font-size: 1rem;
     color: chocolate;
 }
 
@@ -86,9 +91,11 @@ fieldset+fieldset {
     font: 1.6rem Archivo;
 }
 
-.input-blocktel {
-    width: 60%;
-    margin-left: 7.5rem;
+.input-blocktel{
+    width: 49%;
+    display: grid;
+    grid-template-columns: 4rem 15rem 4rem 15rem;
+    column-gap: .5rem;
 }
 
 .input-block:focus-within::after, .input-blocktel:focus-within::after {
